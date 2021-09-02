@@ -1,0 +1,9 @@
+mkvextract tracks 'Hit & Run.S01E01.Hit & Run.mkv' 24:'Hit & Run.S01E01.Hit & Run.srt'; \
+mkvextract tracks 'Hit & Run.S01E02.Love & Loss.mkv' 24:'Hit & Run.S01E02.Love & Loss.srt'; \
+mkvextract tracks 'Hit & Run.S01E03.Friends & Foes.mkv' 24:'Hit & Run.S01E03.Friends & Foes.srt'; \
+mkvextract tracks 'Hit & Run.S01E04.Breaking & Entering.mkv' 24:'Hit & Run.S01E04.Breaking & Entering.srt'; \
+mkvextract tracks 'Hit & Run.S01E05.Flesh & Blood.mkv' 24:'Hit & Run.S01E05.Flesh & Blood.srt'; \
+mkvextract tracks 'Hit & Run.S01E06.Hide & Seek.mkv' 24:'Hit & Run.S01E06.Hide & Seek.srt'; \
+mkvextract tracks 'Hit & Run.S01E07.Part & Parcel.mkv' 24:'Hit & Run.S01E07.Part & Parcel.srt'; \
+mkvextract tracks 'Hit & Run.S01E08.Prose & Cons.mkv' 24:'Hit & Run.S01E08.Prose & Cons.srt'; \
+mkvextract tracks 'Hit & Run.S01E09.Search & Destroy.mkv' 24:'Hit & Run.S01E09.Search & Destroy.srt'
